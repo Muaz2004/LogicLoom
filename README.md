@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Muaz2004/LogicLoom/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Muaz2004/LogicLoom/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
