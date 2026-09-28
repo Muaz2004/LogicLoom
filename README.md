@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Muaz2004/LogicLoom/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0202-happy-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0441-arranging-coins) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Muaz2004/LogicLoom/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/Muaz2004/LogicLoom/tree/master/0089-gray-code) |
 ## Greedy
 |  |
 | ------- |
