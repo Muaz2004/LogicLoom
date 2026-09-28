@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Muaz2004/LogicLoom/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Muaz2004/LogicLoom/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Muaz2004/LogicLoom/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0463-island-perimeter) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Muaz2004/LogicLoom/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
