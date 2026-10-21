@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Muaz2004/LogicLoom/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Muaz2004/LogicLoom/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Muaz2004/LogicLoom/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Muaz2004/LogicLoom/tree/master/0031-next-permutation) |
 | [0047-permutations-ii](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0064-minimum-path-sum) |
