@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Muaz2004/LogicLoom/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0048-rotate-image) |
+| [0057-insert-interval](https://github.com/Muaz2004/LogicLoom/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Muaz2004/LogicLoom/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Muaz2004/DSA-Problem-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
